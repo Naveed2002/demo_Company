@@ -1,2 +1,2 @@
 # demo_Company
-Demo_ company website
+Ceypex is a software solutions company that provides innovative and reliable digital services, including web development, mobile applications, and IT consultancy.
